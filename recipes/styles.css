@@ -1,0 +1,53 @@
+*{
+     box-sizing: border-box;
+
+
+}
+body{
+     margin-left: 30px;
+}
+ h1, .des {
+     background-color: brown;
+     color: antiquewhite;
+     border: 10px;
+     width: 500px;
+     height: auto;
+     text-align: center;
+     margin: 30px;
+}
+
+ .HomeButton {
+     text-align: center;
+     margin-left: 50px;
+     
+}
+
+.intro {
+       border: 10px;
+       border-color: brown;
+       background-color: bisque;
+       padding: 30px;
+       width: max-content;
+       height: auto;
+       margin: 30px;
+
+}
+
+ul li::marker{
+     color: rgb(153, 91, 32);
+
+}
+
+.Ingredients,.steps {
+      border: 10px;
+       border-color: brown;
+       background-color: #f5f5f5;
+       padding: 30px;
+       width: max-content;
+       height: auto;
+       margin: 30px;
+}
+
+img{
+     margin-left: 30px;
+}
